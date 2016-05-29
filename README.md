@@ -3,14 +3,14 @@ One of the most commonly asked questions in developer communities seems to be "w
 
 ## Contents
 * [Overview](#overview)
-* [Distributions](distros.md)
-  * [Arch](distros.md#arch)
-  * [CentOS](distros.md#centos)
-  * [Debian](distros.md#debian)
-  * [ElementaryOS](distros.md#elementary-os)
-  * [Fedora](distros.md#fedora)
-  * [Linux Mint](distros.md#linux-mint)
-  * [Ubuntu](distros.md#ubuntu)
+* [Distributions](DISTROS.md)
+  * [Arch](DISTROS.md#arch)
+  * [CentOS](DISTROS.md#centos)
+  * [Debian](DISTROS.md#debian)
+  * [ElementaryOS](DISTROS.md#elementary-os)
+  * [Fedora](DISTROS.md#fedora)
+  * [Linux Mint](DISTROS.md#linux-mint)
+  * [Ubuntu](DISTROS.md#ubuntu)
 * [Desktop Environments](desktop-environments.md)
   * [Cinnamon](desktop-evironments.md#cinnamon)
   * [Enlightenment/e17](desktop-environments.md#enlightenment)
@@ -34,4 +34,4 @@ DOESN'T.
 MATTER.**
 Got that? The vast majority of what you can do on one Linux distro you can do on the others.  And for most users, only notable difference you'll find between distros is the package manager.  There are exceptions, but like I said, I'm assuming that most readers are new to all of this.
 
-With that being said, everybody does have their own personal preferences and picking out a new Linux distro can be a lot of fun!  So check out [DISTROS.md](distros.md) to get started!
+With that being said, everybody does have their own personal preferences and picking out a new Linux distro can be a lot of fun!  So check out [DISTROS.md](DISTROS.md) to get started!
