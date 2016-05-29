@@ -20,11 +20,11 @@ Like I said in the [overview](readme.md#overview), it really isn't of much conse
 
 ### CentOS
 ![centos banner](banners/centos-banner.png)
-**Overview**
+**Overview** CentOS, which is short for Community Enterprise Operating System, is the community version of Red Hat Enterprise Linux.  Red Hat releases the source code for each version of RHEL, and the CentOS community makes some modifications, recompiles the code, and releases it as CentOS. It's designed for people who want the stability and quality of an enterprise Linux distribution without paying for service.
 
 **Ease of installation/Use** Medium
 
-**My Thoughts**
+**My Thoughts** CentOS is a very solid distro.  If you're looking to install something that you don't want to update very often, this is a great choice.  With that being said, CentOS is by no means bleeding edge so don't expect to find the most up-to-date packages and tools to be available.
 
 ### Debian
 ![debian banner](banners/debian-banner.gif)
