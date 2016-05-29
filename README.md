@@ -28,6 +28,8 @@ One of the most commonly asked questions in developer communities seems to be "w
 ## Overview
 This is a guide to help potential (and current) Linux users decide on their distro, desktop environment, and window manager.  I was originally just going to make this about distros, but I realized that many potential linux users base their decisions off of the UI. I wanted to stress that whatever distro you choose, you can set up the UI however you want.  [r/UnixPorn](reddit.com/r/unixporn) is a shining example of this.
 
+I obviously couldn't put all distros here, but I tried to include the most popular ones.  Some of my favorites I decided were too specialized (such as Kali) or too unknown (such as Solus) to be worth putting down here but you should absolutely explore Linux distros beyond what's listed here if you're feeling more adventurous.
+
 Now I assume that if you're here, your experience with Linux is small to none, so I'm going to tell you the most important thing when it comes to picking a distro. Nine times out of ten
 **IT.
 DOESN'T.
