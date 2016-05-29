@@ -48,7 +48,7 @@ Like I said in the [overview](readme.md#overview), it really isn't of much conse
 
 **Ease of installation/Use** Medium
 
-**My Thoughts** Fedora was my first Linux Distro and it's still the one I use today so perhaps I'm a bit biased here when I say that Fedora is a really nice operating system and a great first Linux distro.  It's not quite as simplified as some other distros are, but believe me when I say that its plenty easy to learn.  Fedora's come a long way in the past few years and features like an updated installer and a GUI-based software center have really helped its accessibility to new users.  In my opinion, Fedora finds a nice balance between accessibility and power use. It doesn't hold your hand quite as much as some other distros, nor does it throw you in the deep end.
+**My Thoughts** Fedora was my first Linux Distro and it's still the one I use today so perhaps I'm a bit biased here when I say that Fedora is a really nice operating system and a great first Linux distro.  It's not quite as simplified as some other distros are, but believe me when I say that its plenty easy to learn.  Fedora's come a long way in the past few years and features like an updated installer and a GUI-based software center have really helped its accessibility to new users.  In my opinion, Fedora finds a nice balance between accessibility and power use. It doesn't hold your hand quite as much as some other istros, nor does it throw you in the deep end.
 
 ### Linux Mint
 ![Linux Mint banner](banners/mint-banner.png)
@@ -60,8 +60,8 @@ Like I said in the [overview](readme.md#overview), it really isn't of much conse
 
 ### Ubuntu
 ![Ubuntu banner](banners/ubuntu-banner.png)
-**Overview** This is probably the most well known Linux distro, although it was recently overtaken by [Linux Mint](#linux-mint) as most popular.  Ubuntu is based on [Debian](#debian) although it 
+**Overview** This is probably the most well known Linux distro, although it was recently overtaken by [Linux Mint](#linux-mint) as most popular.  Ubuntu is based on [Debian](#debian) although it. Another great option for beginners, Ubuntu is packed full of features such as a mature software center that make it so the user can function just fine without the terminal.  Ubuntu, whose name comes from an ancient African word meaning "humanity towards others", it has a reputation for being quite polished and up-to-date.  Ubuntu's default interface is the Unity interface.  The Unity interface was developed in-house at Cannonical, the company the supports Ubuntu development.  The switch to Unity from GNOME 2 was quite polarizing, and caused many Ubuntu users to switch distros or install other desktop environments such as MATE or KDE. With that being said, the Unity interface has developed into a very mature desktop environment that functions particularly well on smaller screens and touch screens.
 
 **Ease of installation/Use** Easy
 
-**My Thoughts**
+**My Thoughts** Ubuntu is a very polarizing distro in that many Linux users love it, while other users see it as too simplified.  I see Ubuntu as a sort of gateway drug to Linux.  I think its a great first distro but its not one I would stick with forever.  With that being said, its a great distro and certainly one that everybody should try out.  I also have to say I really like the Unity interface, although I do like the GNOME 3 interface as well which was similarly polarizing.
