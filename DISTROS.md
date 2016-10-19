@@ -1,5 +1,5 @@
 # An Overview of Linux Distributions
-Like I said in the [overview](readme.md#overview), it really isn't of much consequence what distro you choose.  But it's fun to choose and good to educate yourselves so without further ado, here are some of the most popular distros available today.
+Like I said in the [overview](#overview), it really isn't of much consequence what distro you choose.  But it's fun to choose and good to educate yourselves so without further ado, here are some of the most popular distros available today.
 
 ## Contents
 * [Arch](#arch-linux)
