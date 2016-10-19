@@ -23,6 +23,7 @@ One of the most commonly asked questions in developer communities seems to be "w
   * [Openbox](window-managers.md#openbox)
   * [xmonad](window-managers.md#xmonad)
   * [i3](window-managers.md#i3)
+  * [ratpoison](window-managers.md#ratpoison)
 
 
 ## Overview
